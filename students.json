@@ -1,0 +1,52 @@
+[
+    {
+        "name":"Carl Angelo Maniangap",
+        "age":21,
+        "address":"Orani"
+    },
+    {
+        "name":"John Aldrin Portugal",
+        "age":21,
+        "address":"Samal"
+    },
+    {
+        "name":"Denn Harenz Escat",
+        "age":20,
+        "address":"Samal"
+    },
+    {
+        "name":"Rostelyn Jane Abundia",
+        "age":21,
+        "address":"Orani"
+    },
+    {
+        "name":"David John De Leon",
+        "age":21,
+        "address":"Balanga"
+    },
+    {
+        "name":"Jehosa Phat Borja",
+        "age":23,
+        "address":"Balanga"
+    },
+    {
+        "name":"Chris Pangilinan",
+        "age":20,
+        "address":"Orani"
+    },
+    {
+        "name":"John Alfer Mendoza",
+        "age":25,
+        "address":"Orani"
+    },
+    {
+        "name":"Adlene Mae Vio",
+        "age":21,
+        "address":"Balanga"
+    },
+    {
+        "name":"Benjamin De Leon",
+        "age":25,
+        "address":"Pilar"
+    }
+]
